@@ -3,7 +3,7 @@
 A script tjhat 
 
 # Setup:
-you'll need to enter your CAEN information--fill out the { } fields in bin/upload.sh.
+you'll need to enter your CAEN information--fill out the { } fields in `bin/upload.sh`.
 Also, add this file to gitignore.
 
 
