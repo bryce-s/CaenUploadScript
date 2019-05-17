@@ -23,5 +23,10 @@ entr -- download at http://eradman.com/entrproject/ or with your package manager
 
 # Running:
 ```
-sh caen_sync.sh
+sh caen_sync.sh &
+```
+# Finding PID:
+```
+" you could try something like:
+ps -ef | grep caen_sync
 ```
